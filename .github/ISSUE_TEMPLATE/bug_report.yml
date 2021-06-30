@@ -44,7 +44,9 @@ body:
       description: Optionally, describe the bug in more detail.
       placeholder: >-
         - Error while using i2c... 
+        
         - Only happens when... 
+        
         - might be related to #4291...
   - type: textarea
     id: more-info
